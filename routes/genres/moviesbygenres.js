@@ -5,7 +5,7 @@ module.exports = (req, res) => {
   var config = {
     user: 'user',
     password: 'password',
-    server: 'LAPTOP-MR3BNK6K\\SQLEXPRESS',
+    server: 'server',
     database: 'Movies',
     trustServerCertificate: true
   };
