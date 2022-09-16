@@ -1,6 +1,5 @@
 var sql = require("mssql");
 
-// hello
 module.exports = (req, res) => {
   var config = {
     user: 'user',
